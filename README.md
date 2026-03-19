@@ -1,2 +1,6 @@
 # simple-agents
-"A lightweight, modular Python framework for building autonomous AI agents. Easily define plans, execute steps, and integrate with any LLM."
+"A streamlined framework for creating LLM-based agents.
+🚀 Lightweight: Minimal dependencies, easy to understand.
+🧠 Plan-Execute Architecture: Built-in support for step-by-step task planning and execution.
+🔌 LLM Agnostic: Seamlessly integrate with OpenAI, Anthropic, or local models.
+🛠️ Developer Friendly: Clean code structure ideal for customization and learning."
